@@ -1,4 +1,5 @@
 
+// total number of pairs in an Array = n(n-1)/2
 
 public class PairsInArray{
 
